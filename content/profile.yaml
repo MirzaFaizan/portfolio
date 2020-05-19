@@ -1,0 +1,28 @@
+- profile:
+  initials: MFE
+  name: Faizan Ejaz
+  email: hey@mirzafaizan.me
+  profession: Web Engineer
+  image: images/faizi.jpg
+  location: Tallinn, Estonia
+  relocation: false
+  company: DMT - Tech Sol
+  for_hire: true
+  focus: Developing Web Products
+  focus_url: https://dmttech.io
+  about: |
+    I am a self-taught developer with a Computer Science degree, just wanted to develop apps but ended up developing state of the art web products.
+
+  skills:
+    - JavaScript
+    - Golang
+    - DevOps
+  tools:
+    - React
+    - Iris/Gin
+    - AWS
+  budget:
+    currency: $
+    min: 1
+    max: 20
+    default: 5

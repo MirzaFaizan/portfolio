@@ -1,0 +1,30 @@
+- name: Smart Livestock
+  url: http://smartlivestock.io/
+  description: IoT enabled smart livestock monitoring. A sophisticated system capable of continuously assessing the health of individual animals,
+  status: live
+  tags:
+    - Cloud
+    - Machine Learning
+    - Internet of Things
+  icon: website
+  image: images/project.png
+
+- name: Eluring
+  url: http://eluring.com/
+  description: Eluring means lifecycle. Our goal is to become partner for women all around the world by connecting them with a system that is going to make things easier for them in their periods whether its related to their hygiene or health.
+  status: in progress
+  tags:
+    - Automation
+    - Progressive Web App
+  icon: website
+  image: images/eluring.png
+  
+- name: Islamabad Laundry
+  url: https://islamabadlaundry.pk/
+  description: “ISLAMABAD LAUNDRY” is a leading laundry service provider located in the twin cities equipped with the best laundry equipment and laundry SOLUTIONS.
+  status: live
+  tags:
+    - Automation
+    - Online Service
+  icon: website
+  image: images/isb.png
