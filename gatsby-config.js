@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    description: "My history as a professional",
+    description: "My history as a professional.",
     locale: "en",
     title: "Mirza Faizan Ejaz",
   },

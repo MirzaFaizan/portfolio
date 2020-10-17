@@ -1,12 +1,15 @@
 {
   "name": "mirzafaizan.me",
   "version": "1.0.0",
-  "description": "",
+  "description": "I develop fucking fast web apps.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "portfolio",
+    "web-development"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {

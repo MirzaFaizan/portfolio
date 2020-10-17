@@ -1,23 +1,25 @@
-- name: Smart Livestock
-  url: http://smartlivestock.io/
-  description: IoT enabled smart livestock monitoring. A sophisticated system capable of continuously assessing the health of individual animals,
-  status: live
-  tags:
-    - Cloud
-    - Machine Learning
-    - Internet of Things
-  icon: website
-  image: images/project.png
-
 - name: Eluring
-  url: http://eluring.com/
+  url: http://app.eluring.com/
   description: Eluring means lifecycle. Our goal is to become partner for women all around the world by connecting them with a system that is going to make things easier for them in their periods whether its related to their hygiene or health.
-  status: in progress
+  status: beta
   tags:
-    - Automation
+    - ReactJS
     - Progressive Web App
+    - MERN
   icon: website
   image: images/eluring.png
+
+- name: Crypto Wizard
+  url: https://cryptowzrd.com/
+  description: CRYPTOWZRD is your place for Crypto Education, news, market updates, trade calls & the WZRD Platform.
+  status: live
+  tags:
+    - Crypto
+    - Trade Exchange
+    - NextJS
+    - MERN
+  icon: website
+  image: images/cryptowzrd.png
   
 - name: Islamabad Laundry
   url: https://islamabadlaundry.pk/
@@ -28,3 +30,44 @@
     - Online Service
   icon: website
   image: images/isb.png
+
+- name: Smart Livestock
+  url: http://smartlivestock.io/
+  description: IoT enabled smart livestock monitoring. A sophisticated system capable of continuously assessing the health of individual animals,
+  status: under-development
+  tags:
+    - Machine Learning
+    - Internet of Things
+    - React Native
+  icon: website
+  image: images/project.png
+
+- name: Hug Artist
+  url: https://hugartist.dmttechsol.com/
+  description: Dating web app. Connect with your perfect Soulmate here.
+  status: live
+  tags:
+    - Social
+    - NestJS
+  icon: website
+  image: images/hugartist.png
+
+- name: Bon Appetit
+  url: https://github.com/MirzaFaizan/bon-appetit
+  description: A food ordering system i made as a commercial project. It is deployed in more than 3 regions. Also I made some part of open source and kept developing the rest.
+  status: live
+  tags:
+    - Food ordering
+    - Android SDK
+  icon: github
+  image: images/bon.png
+
+- name: Nest TS SSO Template
+  url: https://github.com/MirzaFaizan/nest-sso-template
+  description: While exploring the TS universe i came across this high powered Framework. I made this template to start right away with best practices and configs.
+  status: live
+  tags:
+    - NestJS
+    - TypeScript
+    - air-bnb
+  icon: github

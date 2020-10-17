@@ -1,28 +1,28 @@
 - profile:
-  initials: MFE
+  initials: Faez
   name: Faizan Ejaz
   email: hey@mirzafaizan.me
-  profession: Web Engineer
+  profession: Senior Web Engineer
   image: images/faizi.jpg
   location: Tallinn, Estonia
   relocation: false
-  company: DMT - Tech Sol
+  company: foodbit.io
   for_hire: true
   focus: Developing Web Products
-  focus_url: https://dmttech.io
+  focus_url: https://github.com/mirzafaizan
   about: |
-    I am a self-taught developer with a Computer Science degree, just wanted to develop apps but ended up developing state of the art web products.
+    I am a self-taught developer with a Computer Science degree. I believe in developing compassionate web apps around user. I like to craft full-stack web and mobile web applications. I am a MERN stack junkie primarily focused on TS. I can talk about code and how it affects people around us for hours, also I try to write @medium articles on what i learned and teach others. Sometimes I give workshops.
 
   skills:
-    - JavaScript
+    - JavaScript TypeScript
     - Golang
     - DevOps
   tools:
     - React
-    - Iris/Gin
+    - Gin/Nest
     - AWS
   budget:
-    currency: $
-    min: 1
+    currency: €
+    min: 2
     max: 20
     default: 5
