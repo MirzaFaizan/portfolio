@@ -42,16 +42,6 @@
   icon: website
   image: images/project.png
 
-- name: Hug Artist
-  url: https://hugartist.dmttechsol.com/
-  description: Dating web app. Connect with your perfect Soulmate here.
-  status: live
-  tags:
-    - Social
-    - NestJS
-  icon: website
-  image: images/hugartist.png
-
 - name: Bon Appetit
   url: https://github.com/MirzaFaizan/bon-appetit
   description: A food ordering system i made as a commercial project. It is deployed in more than 3 regions. Also I made some part of open source and kept developing the rest.
