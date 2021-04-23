@@ -4,14 +4,14 @@
   email: hey@mirzafaizan.me
   profession: Senior Engineer
   image: images/faizi.jpg
-  location: Tallinn, Estonia
+  location: Estonia/Sweden
   relocation: false
   company: vntrs.com
   for_hire: false
   focus: Developing Web Products
   focus_url: https://github.com/mirzafaizan
   about: |
-    I am a self-taught developer with a Computer Science degree also a wannabe entrepreneur well more like a problem solver to make life of people a little easy with my code. I believe in developing compassionate web apps around user needs. I craft full-stack web and mobile applications. I am a MERN stack junkie primarily focused on JS/TS & Go with a dash of DevOps. I can talk about code and how it affects people around us for hours. Sometimes I give workshops.
+    I am a self-taught developer with a Computer Science degree also a wannabe entrepreneur with a small chunk failed and partially successful startups (well I am not giving up soon) well more like a problem solver to make life of people a little easy with my code. I believe in developing compassionate web apps around user needs. I craft full-stack web and mobile applications. I am a MERN stack junkie primarily focused on JS/TS & Go with a dash of DevOps. I can talk about code and how it affects people around us for hours. Sometimes I give workshops.
   skills:
     - JavaScript TypeScript
     - Golang
@@ -22,6 +22,6 @@
     - AWS
   budget:
     currency: €
-    min: 2
-    max: 20
+    min: 5
+    max: 30
     default: 5
