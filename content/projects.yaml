@@ -1,5 +1,5 @@
 - name: Eluring
-  url: http://app.eluring.com/
+  url: http://eluring.com/
   description: Eluring means lifecycle. Our goal is to become partner for women all around the world by connecting them with a system that is going to make things easier for them in their periods whether its related to their hygiene or health.
   status: beta
   tags:
@@ -8,6 +8,16 @@
     - MERN
   icon: website
   image: images/eluring.png
+
+- name: Fit-bloop
+  url: http://fit-bloop.vercel.app/
+  description: Project name bloop is a fitness tracking collar for your cute pets.
+  status: under-development
+  tags:
+    - Machine Learning
+    - Internet of Things
+    - React Native
+  icon: website
 
 - name: Crypto Wizard
   url: https://cryptowzrd.com/
@@ -20,7 +30,7 @@
     - MERN
   icon: website
   image: images/cryptowzrd.png
-  
+
 - name: Islamabad Laundry
   url: https://islamabadlaundry.pk/
   description: “ISLAMABAD LAUNDRY” is a leading laundry service provider located in the twin cities equipped with the best laundry equipment and laundry SOLUTIONS.
@@ -32,14 +42,13 @@
   image: images/isb.png
 
 - name: Smart Livestock
-  url: http://smartlivestock.io/
+  url: https://github.com/MirzaFaizan/ConnectedCowsReactApp
   description: IoT enabled smart livestock monitoring. A sophisticated system capable of continuously assessing the health of individual animals,
-  status: under-development
+  status: discontinued
   tags:
-    - Machine Learning
     - Internet of Things
     - React Native
-  icon: website
+  icon: github
   image: images/project.png
 
 - name: Bon Appetit
