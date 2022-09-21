@@ -1,14 +1,14 @@
 - profile:
   initials: Faez
   name: Faizan Ejaz
-  email: hey@mirzafaizan.me
-  profession: Senior Engineer
+  email: mirzafaizanejaz@gmail.com
+  profession: Software Engineer
   image: images/faizi.jpg
   location: Estonia/Sweden
-  relocation: false
-  company: VNTRS
-  for_hire: false
-  focus: Developing Web Products
+  relocation: true
+  company: Pipedrive 🦄
+  for_hire: true
+  focus: Developing Web
   focus_url: https://github.com/mirzafaizan
   about: |
     I am a self-taught developer with a Computer Science degree also a wannabe entrepreneur with a small chunk failed and partially successful startups (well I am not giving up soon) well more like a problem solver to make life of people a little easy with my code. I believe in developing compassionate web apps around user needs. I craft full-stack web and mobile applications. I am a MERN stack junkie primarily focused on JS/TS & Go with a dash of DevOps. I can talk about code and how it affects people around us for hours. Sometimes I give workshops.
